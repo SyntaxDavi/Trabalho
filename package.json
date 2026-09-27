@@ -1,0 +1,19 @@
+{
+  "name": "blog-saber-seguro",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Blog educacional com interface e banco SQLite local",
+  "scripts": {
+    "start": "node server.js",
+    "verify": "node scripts/verify-local.js",
+    "tls:generate": "node scripts/generate-cert.js",
+    "check": "node --check server.js && node --check auth.js && node --check dist/app.js && node --check database/index.js && node --check database/users.js && node --check database/info.js",
+    "users:init": "node database/users.js",
+    "db:init": "node database/index.js",
+    "db:info": "node database/info.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "better-sqlite3": "11.10.0"
+  }
+}

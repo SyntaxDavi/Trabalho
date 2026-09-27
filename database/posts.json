@@ -1,0 +1,38 @@
+[
+  {
+    "id": "celulas",
+    "area": "biologia",
+    "title": "Células: pequenas estruturas, grandes funções",
+    "summary": "Entenda o que diferencia as células procariontes das eucariontes.",
+    "symbol": "◎ ◉",
+    "time": "3 min",
+    "body": "<h2>A unidade básica da vida</h2><p>A célula é a unidade estrutural e funcional dos seres vivos. Apesar de sua diversidade, as células possuem membrana plasmática, material genético, citoplasma e ribossomos.</p><h2>Procariontes e eucariontes</h2><p>Nas células procariontes, como as de bactérias, o material genético não fica dentro de um núcleo delimitado por membrana. Nas eucariontes, como as de animais e plantas, existe um núcleo envolvido por membrana.</p><p>Células eucariontes também apresentam compartimentos membranosos que desempenham funções específicas. As mitocôndrias participam da respiração celular; os cloroplastos realizam fotossíntese nas plantas e em muitas algas.</p>"
+  },
+  {
+    "id": "equacoes",
+    "area": "matematica",
+    "title": "Equações do primeiro grau, passo a passo",
+    "summary": "Descubra como encontrar a incógnita mantendo a igualdade em equilíbrio.",
+    "symbol": "2x + 4",
+    "time": "3 min",
+    "body": "<h2>O que é uma equação?</h2><p>Uma equação expressa uma igualdade que contém um valor desconhecido. Na equação do primeiro grau com uma incógnita, podemos escrever ax + b = 0, com a diferente de zero.</p><h2>Vamos resolver: 2x + 4 = 10</h2><p>Subtraímos 4 dos dois lados: 2x = 6. Em seguida, dividimos ambos os lados por 2: x = 3.</p><h2>Confira o resultado</h2><p>Substituindo x por 3 na equação original, temos 2 × 3 + 4 = 10. A igualdade é verdadeira. O princípio é realizar a mesma operação nos dois lados para preservar a igualdade.</p>"
+  },
+  {
+    "id": "fotossintese",
+    "area": "biologia",
+    "title": "Fotossíntese: a energia que vem da luz",
+    "summary": "Conheça o processo que transforma energia luminosa em energia química.",
+    "symbol": "☀ → ♧",
+    "time": "3 min",
+    "body": "<h2>Luz, água e gás carbônico</h2><p>Na fotossíntese, plantas, algas e alguns outros organismos utilizam energia luminosa para produzir matéria orgânica. Na fotossíntese oxigênica, ocorre liberação de oxigênio.</p><h2>O papel dos cloroplastos</h2><p>Nas plantas, o processo acontece nos cloroplastos. Pigmentos como a clorofila absorvem luz. As reações dependentes de luz fornecem energia química para a fixação do carbono.</p><h2>Por que isso importa?</h2><p>A fotossíntese sustenta grande parte das cadeias alimentares e participa do ciclo do carbono. A matéria orgânica produzida pode servir ao crescimento da planta e à obtenção de energia pela respiração celular.</p>"
+  },
+  {
+    "id": "pitagoras",
+    "area": "matematica",
+    "title": "Pitágoras: uma relação entre três lados",
+    "summary": "Veja como calcular comprimentos em um triângulo retângulo.",
+    "symbol": "a² + b²",
+    "time": "3 min",
+    "body": "<h2>Uma regra para triângulos retângulos</h2><p>O teorema de Pitágoras relaciona os lados de um triângulo que possui um ângulo de 90°. O lado oposto a esse ângulo é a hipotenusa, o maior lado do triângulo.</p><h2>A fórmula</h2><p>Se a e b são os catetos e c é a hipotenusa, então a² + b² = c².</p><h2>Um exemplo</h2><p>Para catetos de 3 e 4 centímetros: c² = 3² + 4² = 9 + 16 = 25. Como o comprimento é positivo, c = 5 centímetros.</p><p>Essa relação permite calcular diagonais e distâncias quando a situação pode ser representada por um triângulo retângulo.</p>"
+  }
+]
